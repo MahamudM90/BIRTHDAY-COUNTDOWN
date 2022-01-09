@@ -29,7 +29,7 @@ You Can see a Link being generated Copy or Visit the link by Clicking on the But
 
 And There You Go ! 🎉
 
-![ScreenShot of Form](screenshots/dumas.png)
+![ScreenShot of Form](screenshots/duma.png)
 
 ## ScreenShot of Coutdown Timer⏲️
 
