@@ -8,7 +8,7 @@ const Generate = () => {
   const [link, setLink] = useState('');
   const generateLink = () => {
     setLink(
-      `/${name}/${day}/${month}`
+      `https://61daec3345fa19f9e3467a44--inspiring-mcnulty-85e880.netlify.app//${name}/${day}/${month}`
     );
   };
   return (
