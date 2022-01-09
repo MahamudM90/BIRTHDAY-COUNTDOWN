@@ -21,7 +21,7 @@ or Head to [https://61daec3345fa19f9e3467a44--inspiring-mcnulty-85e880.netlify.a
 
 Enter the `name , day , month of birthday`
 
-![ScreenShot of Form](screenshots/generates.png)
+![ScreenShot of Form](screenshots/generate.png)
 
 Click on Generate Link
 
