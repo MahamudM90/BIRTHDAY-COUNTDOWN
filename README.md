@@ -35,10 +35,6 @@ And There You Go ! 🎉
 
 ![ScreenShot of Countdown](screenshots/countdown.png)
 
-## Birthday Wisher🎂
-
-Loads this Page Instead of Coutdown on the Birthday
-![ScreenShot of Countdown](screenshots/wishPage.png)
 
 It's Fully Responsive and you change styles in the `app.css`
 
