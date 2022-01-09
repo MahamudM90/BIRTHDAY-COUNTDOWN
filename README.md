@@ -4,7 +4,7 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at https://birthday-wisher.netlify.app/
+You can view a live demo over at https://61daec3345fa19f9e3467a44--inspiring-mcnulty-85e880.netlify.app/
 
 To get It running locally:
 
@@ -14,10 +14,10 @@ To get It running locally:
 
 ## Usage:
 
-Visit [https://birthday-wisher.netlify.app/]()
+Visit [https://61daec3345fa19f9e3467a44--inspiring-mcnulty-85e880.netlify.app/()
 
 Click on Generate Link
-or Head to [https://birthday-wisher.netlify.app/generate]()
+or Head to [https://61daec3345fa19f9e3467a44--inspiring-mcnulty-85e880.netlify.app/()
 
 Enter the `name , day , month of birthday`
 
