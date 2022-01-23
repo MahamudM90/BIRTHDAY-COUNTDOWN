@@ -4,7 +4,7 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at https://61dbd14fdf034f7023e10003--infallible-wright-f9c93c.netlify.app/
+You can view a live demo over at https://birthdaygenerate.netlify.app/
 
 To get It running locally:
 
@@ -14,10 +14,10 @@ To get It running locally:
 
 ## Usage:
 
-Visit [https://61dbd14fdf034f7023e10003--infallible-wright-f9c93c.netlify.app/()
+Visit [https://birthdaygenerate.netlify.app/()
 
 Click on Generate Link
-or Head to [https://61dbd14fdf034f7023e10003--infallible-wright-f9c93c.netlify.app/()
+or Head to [https://birthdaygenerate.netlify.app/()
 
 Enter the `name , day , month of birthday`
 
