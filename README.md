@@ -36,7 +36,7 @@ And There You Go ! 🎉
 ![ScreenShot of Countdown](screenshots/countdown.png)
 
 
-It's Fully Responsive and you cchange styles in the `app.css`
+It's Fully Responsive and you cachange styles in the `app.css`
 
 Wishing Component Page : `Wish.jsx`
 Countdown Compenent Page : `Countdown.jsx`
